@@ -1,5 +1,5 @@
 from SimpleWebSocketServer import SimpleWebSocketServer, WebSocket
-from Chatbot import get_response
+from Chatbot import *
 
 
 class ChatServer(WebSocket):
